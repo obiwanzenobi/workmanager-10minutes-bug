@@ -1,0 +1,2 @@
+rootProject.name='workmanager_10minutes_bug'
+include ':app'
